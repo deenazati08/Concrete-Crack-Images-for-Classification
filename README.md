@@ -6,7 +6,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
-[Description](https://github.com/deenazati08/user_content_text_classification#description) // [Steps](https://github.com/deenazati08/user_content_text_classification#steps) // [Result](https://github.com/deenazati08/user_content_text_classification#result) // [Discussion](https://github.com/deenazati08/user_content_text_classification#discussion) // [Credits](https://github.com/deenazati08/user_content_text_classification#credits)
+[Description](https://github.com/deenazati08/Concrete-Crack-Images-for-Classification#description) // [Data](https://github.com/deenazati08/Concrete-Crack-Images-for-Classification#data) // [Result](https://github.com/deenazati08/Concrete-Crack-Images-for-Classification#result) // [Credits](https://github.com/deenazati08/Concrete-Crack-Images-for-Classification#credits)
 
 
 ## Description
